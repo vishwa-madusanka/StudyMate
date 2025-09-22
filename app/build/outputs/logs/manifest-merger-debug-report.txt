@@ -1,0 +1,370 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:2:1-75:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\48b9b42f7a8abfad6b293ce70111b394\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\cca9bc7a77128c43846b7203a7c030ca\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\97d2d6d34c3b13f7193c79367403633c\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\709d7fe98bf3d196035fb33626a4924c\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\13f6e8bb9b9afb1acd45104d4f606f4d\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\bb9ebd849d8053cf93a7454a502a855e\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\8a151ea1cb54d04a771d486903137caa\transformed\activity-1.10.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\c38bff6a15c691da1f3537adeb3bb0cc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f79f4703135f3aaa583e5fb874790545\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f29d83fac0edc1986e658733df903f53\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\c9ac85dc458ca1d39a666f1b28973e0a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\0fe144328c86d49a1eb09dec77cd0e9a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\44eaeb2edde92bdc5e4f38389bd8ffc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\e18ddefb24e66f867d343f193646f99a\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6fcd16ed846f9536929485abe9becf36\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\997d342f90a608f78221bc108f8462b7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\d3c9b03a97ef5476b6c1eeba4715aeae\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\4bdc71b1e2745c90613b52ff85e04652\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\ded91a636a5aa468020f563bedf0f803\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\7c31bc57a2a4f2082c9eae032124ecd6\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\0ecb8fa382d60310af756ee5c977974c\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\56d3679eb22174864dd794f2b8bd2e27\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f11683ae4ef7b28b9fa4032395918195\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\7fce3fd62f57c926f86fa32519881135\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\d0a04d85560f6c348ecdc54b0bed81f5\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\3add32c91f2b41f2c64bdf23a3e99dca\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\e27c5c1523c4ecc9f0a8cfbe621de39b\transformed\core-ktx-1.17.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\87f175ddf70862d57ffa1a1932ce33d4\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\001e446237b1d8ccfb7e9905e2cb3c62\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\1c6ea3afcbe65915fbb685e897166ebc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\8e8221b7f2e3bdffe596a0301955d38d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\928d3ced009d3cf42dac0c545d0cce51\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\44deee007aa4071144035f3a925ac89c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\4cd3c719c4f8bbe0d5b93e6e1db93119\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\ca6c8ad392481fef9adf155bdc8af9b2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\d0457cb8610247a14532910acd2c67db\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\da65fbf6224b2d13fdd784363f3973cf\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\062cc45e4373e335e479a4e765411e1e\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a1ef737f21b5bd70c6bdc09526bf5f9b\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:8:5-73:15
+INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:8:5-73:15
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\48b9b42f7a8abfad6b293ce70111b394\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\48b9b42f7a8abfad6b293ce70111b394\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\cca9bc7a77128c43846b7203a7c030ca\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\cca9bc7a77128c43846b7203a7c030ca\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f11683ae4ef7b28b9fa4032395918195\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f11683ae4ef7b28b9fa4032395918195\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\8e8221b7f2e3bdffe596a0301955d38d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\8e8221b7f2e3bdffe596a0301955d38d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\4cd3c719c4f8bbe0d5b93e6e1db93119\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\4cd3c719c4f8bbe0d5b93e6e1db93119\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:15:5-31
+	android:label
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:13:5-37
+	android:fullBackupContent
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:11:5-50
+	android:roundIcon
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:14:5-50
+	tools:targetApi
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:17:5-25
+	android:icon
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:12:5-39
+	android:allowBackup
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:9:5-31
+	android:theme
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:16:5-43
+	android:dataExtractionRules
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:10:5-61
+activity#com.sliit.studymate.SplashActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:19:5-27:16
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:21:9-32
+	android:theme
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:22:9-68
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:20:9-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:25:23-70
+activity#com.sliit.studymate.WelcomeActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:29:5-31:36
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:30:9-40
+activity#com.sliit.studymate.OnboardingActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:33:5-35:36
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:34:9-43
+activity#com.sliit.studymate.SignInActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:37:5-39:36
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:38:9-39
+activity#com.sliit.studymate.SignUpActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:42:13-43
+activity#com.sliit.studymate.HomeActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:46:13-41
+activity#com.sliit.studymate.ProfileActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:50:9-52:40
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:51:13-44
+activity#com.sliit.studymate.ScheduleActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:54:9-56:40
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:55:13-45
+activity#com.sliit.studymate.ChecklistActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:57:9-59:40
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:59:13-37
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:58:13-46
+activity#com.sliit.studymate.AddTaskActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:61:9-63:40
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:62:13-44
+activity#com.sliit.studymate.SettingsActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:65:9-67:40
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:66:13-45
+activity#com.sliit.studymate.NotificationsActivity
+ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:69:9-71:40
+	android:exported
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml:70:13-50
+uses-sdk
+INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\48b9b42f7a8abfad6b293ce70111b394\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\48b9b42f7a8abfad6b293ce70111b394\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\cca9bc7a77128c43846b7203a7c030ca\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\cca9bc7a77128c43846b7203a7c030ca\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\97d2d6d34c3b13f7193c79367403633c\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\97d2d6d34c3b13f7193c79367403633c\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\709d7fe98bf3d196035fb33626a4924c\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\709d7fe98bf3d196035fb33626a4924c\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\13f6e8bb9b9afb1acd45104d4f606f4d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\13f6e8bb9b9afb1acd45104d4f606f4d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\bb9ebd849d8053cf93a7454a502a855e\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\bb9ebd849d8053cf93a7454a502a855e\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\8a151ea1cb54d04a771d486903137caa\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\8a151ea1cb54d04a771d486903137caa\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\c38bff6a15c691da1f3537adeb3bb0cc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\c38bff6a15c691da1f3537adeb3bb0cc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f79f4703135f3aaa583e5fb874790545\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f79f4703135f3aaa583e5fb874790545\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f29d83fac0edc1986e658733df903f53\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f29d83fac0edc1986e658733df903f53\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\c9ac85dc458ca1d39a666f1b28973e0a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\c9ac85dc458ca1d39a666f1b28973e0a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\0fe144328c86d49a1eb09dec77cd0e9a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\0fe144328c86d49a1eb09dec77cd0e9a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\44eaeb2edde92bdc5e4f38389bd8ffc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\44eaeb2edde92bdc5e4f38389bd8ffc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\e18ddefb24e66f867d343f193646f99a\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\e18ddefb24e66f867d343f193646f99a\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6fcd16ed846f9536929485abe9becf36\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6fcd16ed846f9536929485abe9becf36\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\997d342f90a608f78221bc108f8462b7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\997d342f90a608f78221bc108f8462b7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\d3c9b03a97ef5476b6c1eeba4715aeae\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\d3c9b03a97ef5476b6c1eeba4715aeae\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\4bdc71b1e2745c90613b52ff85e04652\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\4bdc71b1e2745c90613b52ff85e04652\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\ded91a636a5aa468020f563bedf0f803\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\ded91a636a5aa468020f563bedf0f803\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\7c31bc57a2a4f2082c9eae032124ecd6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\7c31bc57a2a4f2082c9eae032124ecd6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\0ecb8fa382d60310af756ee5c977974c\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\0ecb8fa382d60310af756ee5c977974c\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\56d3679eb22174864dd794f2b8bd2e27\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\56d3679eb22174864dd794f2b8bd2e27\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f11683ae4ef7b28b9fa4032395918195\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f11683ae4ef7b28b9fa4032395918195\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\7fce3fd62f57c926f86fa32519881135\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\7fce3fd62f57c926f86fa32519881135\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\d0a04d85560f6c348ecdc54b0bed81f5\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\d0a04d85560f6c348ecdc54b0bed81f5\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\3add32c91f2b41f2c64bdf23a3e99dca\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\3add32c91f2b41f2c64bdf23a3e99dca\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\e27c5c1523c4ecc9f0a8cfbe621de39b\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\e27c5c1523c4ecc9f0a8cfbe621de39b\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\87f175ddf70862d57ffa1a1932ce33d4\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\87f175ddf70862d57ffa1a1932ce33d4\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\001e446237b1d8ccfb7e9905e2cb3c62\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\001e446237b1d8ccfb7e9905e2cb3c62\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\1c6ea3afcbe65915fbb685e897166ebc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\1c6ea3afcbe65915fbb685e897166ebc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\8e8221b7f2e3bdffe596a0301955d38d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\8e8221b7f2e3bdffe596a0301955d38d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\928d3ced009d3cf42dac0c545d0cce51\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\928d3ced009d3cf42dac0c545d0cce51\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\44deee007aa4071144035f3a925ac89c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\44deee007aa4071144035f3a925ac89c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\4cd3c719c4f8bbe0d5b93e6e1db93119\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\4cd3c719c4f8bbe0d5b93e6e1db93119\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\ca6c8ad392481fef9adf155bdc8af9b2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\ca6c8ad392481fef9adf155bdc8af9b2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\d0457cb8610247a14532910acd2c67db\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\d0457cb8610247a14532910acd2c67db\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\da65fbf6224b2d13fdd784363f3973cf\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\da65fbf6224b2d13fdd784363f3973cf\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\062cc45e4373e335e479a4e765411e1e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\062cc45e4373e335e479a4e765411e1e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a1ef737f21b5bd70c6bdc09526bf5f9b\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a1ef737f21b5bd70c6bdc09526bf5f9b\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Vishwa Wijekoon\AndroidStudioProjects\StudyMATE2\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f11683ae4ef7b28b9fa4032395918195\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f11683ae4ef7b28b9fa4032395918195\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\8e8221b7f2e3bdffe596a0301955d38d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\8e8221b7f2e3bdffe596a0301955d38d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\5e02fc86f404d148456befc8b9b138e1\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+permission#com.sliit.studymate.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+uses-permission#com.sliit.studymate.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\a62b603789c6e4530ad969fb31cec822\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f11683ae4ef7b28b9fa4032395918195\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f11683ae4ef7b28b9fa4032395918195\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\f11683ae4ef7b28b9fa4032395918195\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Vishwa Wijekoon\.gradle\caches\8.13\transforms\6f32812172f51259f4d1b83ee6ec226b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

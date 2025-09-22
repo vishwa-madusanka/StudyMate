@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_add_account.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_add_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_notifications.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_progress_illustration.png.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\progress_illustration.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_focus_illustration.png.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\focus_illustration.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_rounded_edittext_background.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\rounded_edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_todo.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_divider_gray.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\divider_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_visibility_off.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_report_problem.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_report_problem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_tab_indicator_default.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\tab_indicator_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_bottom_nav_item_background.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\bottom_nav_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_schedule.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\color_bottom_nav_icon_tint.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\color\\bottom_nav_icon_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_onboarding.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_add_task.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\menu_notifications_menu.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\menu\\notifications_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_notifications.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_search_background.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\search_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_fullscreen.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_tab_selector.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "com.sliit.studymate.app-debug-33:/layout_activity_home.xml.flat",
+        "source": "com.sliit.studymate.app-main-35:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_rounded_background.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\rounded_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_selected_item_bg_light.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\selected_item_bg_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_checklist.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_checklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_checklist.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_checklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_security.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_organize_illustration.png.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\organize_illustration.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_play_circle_red.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_play_circle_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_no_notifications_illustration.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_no_notifications_illustration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_progress.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_progress_bar_purple.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\progress_bar_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_timer_image.jpg.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\timer_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_facebook.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_timeline_dot.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\timeline_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_subscription.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_subscription.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_verified_circle.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_verified_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_privacy.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_privacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_verified.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_verified.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_add_circle_green.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_add_circle_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\layout_fragment_onboarding_page.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\layout\\fragment_onboarding_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_hourglass.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_hourglass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_done.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_music_note.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_music_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_schedule.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_tab_indicator_selected.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\tab_indicator_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-debug-33:\\drawable_rounded_white_background.xml.flat",
+        "source": "C:\\Users\\Vishwa Wijekoon\\.gradle\\daemon\\8.13\\com.sliit.studymate.app-main-35:\\drawable\\rounded_white_background.xml"
+    }
+]

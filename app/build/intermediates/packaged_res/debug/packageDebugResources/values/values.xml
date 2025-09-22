@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="icon_tint_unselected">#A4A4A4</color>
+    <color name="lavender_bg">#D1C4E9</color>
+    <color name="purple_button">#8A63D3</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_logo">StudyMate App Logo</string>
+    <string name="app_name">StudyMate</string>
+    <string name="create_account">Create Account</string>
+    <string name="do_you_have_account">Do you have account? </string>
+    <string name="email_phone">Email/Phone Number</string>
+    <string name="name">Name</string>
+    <string name="onboarding_subtitle_1">Schedule tasks, manage deadlines, and boost productivity</string>
+    <string name="onboarding_subtitle_2">Use study timers and productivity tools to stay on track</string>
+    <string name="onboarding_subtitle_3">Monitor your study streaks and achievements</string>
+    <string name="onboarding_title_1">Organize your study life</string>
+    <string name="onboarding_title_2">Stay focussed and productive</string>
+    <string name="onboarding_title_3">Track your progress</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="terms_and_policy">I\'m agree to The <a href="">Terms of Service</a> and <a href="">Privacy Policy</a></string>
+    <string name="welcome_subtitle">Your study companion</string>
+    <string name="welcome_title">Welcome to StudyMate</string>
+    <style name="Base.Theme.StudyMate" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+    <style name="CustomTabIndicatorStyle" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorHeight">0dp</item>
+        <item name="tabPaddingStart">16dp</item>
+        <item name="tabPaddingEnd">16dp</item>
+        <item name="tabBackground">@drawable/tab_selector</item>
+    </style>
+    <style name="Theme.StudyMate" parent="Base.Theme.StudyMate"/>
+</resources>
